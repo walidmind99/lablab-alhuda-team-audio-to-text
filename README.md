@@ -1,8 +1,7 @@
 # About
 
 We members of the [Al Huda](https://lablab.me/event/gaia-hackathon/al-huda) team are going to use AI tool called Whisper which is made by openai.
-The solution was implemented on the local machine first, and then the solution was implemented on the cloud due to the lack of capabilities on the local machine
-During the following steps, we will mention how each method was accomplished, with a link to look at the results of the solution in the cloud
+The solution was implemented on the local machine first, and then the solution was implemented on the cloud due to the lack of capabilities on the local machine [(See this quick example)](https://youtu.be/FRkutToE72w) During the following steps, we will mention how each method was accomplished, with a link to look at the results of the solution in the cloud
 
 ## General references
 
